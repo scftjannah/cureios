@@ -17,6 +17,10 @@ class ViewController: UIViewController {
     func hello(){
         print("Hello Gais!")
     }
+    
+    func craig() {
+        print("saya sayang craig 🙏")
+    }
 
 }
 
